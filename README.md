@@ -12,10 +12,10 @@
 </p>
 
 <div align="center">
-  <a href="https://www.instagram.com/jefferson_lucas01/" target="_blank">
+  <a href="https://www.instagram.com/jefferson_lucas01/" target="_blank"  rel="external">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/jefferson-lucas-a9a608254//" target="_blank">
+  <a href="https://www.linkedin.com/in/jefferson-lucas-a9a608254//" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
