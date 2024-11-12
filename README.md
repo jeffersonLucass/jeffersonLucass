@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Hello, my name is Jefferson Lucas Alves Rodrigues and I am a <strong>front-end developer</strong>. Currently, I am focused on enhancing my skills and expanding my knowledge in the field of web development through my studies. My passion for technology and programming drives me to keep learning and growing professionally, always seeking new opportunities to apply what I learn and contribute to innovative projects.
+ Hello, my name is Jefferson Lucas Alves Rodrigues and I am a <strong>developer</strong>. Currently, I am focused on enhancing my skills and expanding my knowledge in the field of web development through my studies. My passion for technology and programming drives me to keep learning and growing professionally, always seeking new opportunities to apply what I learn and contribute to innovative projects.
 </p>
 
 ### Welcome to my page!
